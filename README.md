@@ -1,4 +1,4 @@
 # python-lab-4
 
-Для коректної роботи застосунку "app.py" попередньо треба створити свій сервер mySQL та встановити бібліотеки, вказані у файлі "requirements.txt".
-Задля підключення до свого серверу, в функціїї "create_server_connection" третім параметром треба вказати ваш пароль від нього.
+For the correct operation of the "app.py" application, you must first create your mySQL server and install the libraries specified in the "requirements.txt" file.
+In order to connect to your server, in the function "create_server_connection" you need to specify your password from it as the third parameter.
