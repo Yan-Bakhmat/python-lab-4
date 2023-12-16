@@ -1,4 +1,4 @@
 # python-lab-4
 
-Topic: Version control, virtual environment and databases.
-Not finished.
+Для коректної роботи застосунку "app.py" попередньо треба створити свій сервер mySQL та встановити бібліотеки, вказані у файлі "requirements.txt".
+Задля підключення до свого серверу, в функціїї "create_server_connection" третім параметром треба вказати ваш пароль від нього.
